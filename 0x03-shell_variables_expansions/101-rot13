@@ -1,1 +1,2 @@
-i
+#!/bin/bash
+cat quote | ./101-rot13
